@@ -43,7 +43,9 @@
 
 ## Capturas de pantalla
 
-[Incluir aquí capturas de pantalla de la página]
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/90b4943e-8c44-46d2-8af4-b68570bec80a" />
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/0368d0ac-a1b5-4af0-bbb9-dae4d227bf12" />
+
 
 ## Despliegue en GitHub Pages
 
